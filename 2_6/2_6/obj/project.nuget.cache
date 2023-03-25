@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "upS/Me7f1RYzAOV3LZU+OK361q7iva3HBVPBNTLpGp9S9O/lJZmHclvVqjs8XFKbA+as0Ko4QyHHDfcFqPvoXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gr612_fepol\\Desktop\\2_6\\2_6\\2_6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gr612_fepol\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
