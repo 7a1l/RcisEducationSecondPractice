@@ -1,0 +1,16 @@
+C:\Users\gr612_fepol\Desktop\2_1\2_1\bin\Debug\net5.0\2_1.exe
+C:\Users\gr612_fepol\Desktop\2_1\2_1\bin\Debug\net5.0\2_1.deps.json
+C:\Users\gr612_fepol\Desktop\2_1\2_1\bin\Debug\net5.0\2_1.runtimeconfig.json
+C:\Users\gr612_fepol\Desktop\2_1\2_1\bin\Debug\net5.0\2_1.runtimeconfig.dev.json
+C:\Users\gr612_fepol\Desktop\2_1\2_1\bin\Debug\net5.0\2_1.dll
+C:\Users\gr612_fepol\Desktop\2_1\2_1\bin\Debug\net5.0\ref\2_1.dll
+C:\Users\gr612_fepol\Desktop\2_1\2_1\bin\Debug\net5.0\2_1.pdb
+C:\Users\gr612_fepol\Desktop\2_1\2_1\obj\Debug\net5.0\2_1.csprojAssemblyReference.cache
+C:\Users\gr612_fepol\Desktop\2_1\2_1\obj\Debug\net5.0\2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr612_fepol\Desktop\2_1\2_1\obj\Debug\net5.0\2_1.AssemblyInfoInputs.cache
+C:\Users\gr612_fepol\Desktop\2_1\2_1\obj\Debug\net5.0\2_1.AssemblyInfo.cs
+C:\Users\gr612_fepol\Desktop\2_1\2_1\obj\Debug\net5.0\2_1.csproj.CoreCompileInputs.cache
+C:\Users\gr612_fepol\Desktop\2_1\2_1\obj\Debug\net5.0\2_1.dll
+C:\Users\gr612_fepol\Desktop\2_1\2_1\obj\Debug\net5.0\ref\2_1.dll
+C:\Users\gr612_fepol\Desktop\2_1\2_1\obj\Debug\net5.0\2_1.pdb
+C:\Users\gr612_fepol\Desktop\2_1\2_1\obj\Debug\net5.0\2_1.genruntimeconfig.cache
