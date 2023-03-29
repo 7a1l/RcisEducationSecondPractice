@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "j+V966SWppO4rl7Dl/qNJuC+xPl80MyUDvwjmoPEwmh/i+p+BpymYbyHfD4IROks/LjQdVd4u+ExFvPA1+FFpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gr612_fepol\\Desktop\\2_5\\Garage\\Garage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gr612_fepol\\.nuget\\packages\\npgsql\\4.1.2\\npgsql.4.1.2.nupkg.sha512",
+    "C:\\Users\\gr612_fepol\\.nuget\\packages\\standardrepository\\1.0.4.3\\standardrepository.1.0.4.3.nupkg.sha512",
+    "C:\\Users\\gr612_fepol\\.nuget\\packages\\standardrepository.postgresql\\1.0.4.5\\standardrepository.postgresql.1.0.4.5.nupkg.sha512",
+    "C:\\Users\\gr612_fepol\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

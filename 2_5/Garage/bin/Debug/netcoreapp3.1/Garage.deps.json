@@ -1,0 +1,86 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Garage/1.0.0": {
+        "dependencies": {
+          "StandardRepository.PostgreSQL": "1.0.4.5"
+        },
+        "runtime": {
+          "Garage.dll": {}
+        }
+      },
+      "Npgsql/4.1.2": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.6.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Npgsql.dll": {
+            "assemblyVersion": "4.1.2.0",
+            "fileVersion": "4.1.2.0"
+          }
+        }
+      },
+      "StandardRepository/1.0.4.3": {
+        "runtime": {
+          "lib/netcoreapp3.1/StandardRepository.dll": {
+            "assemblyVersion": "1.0.4.3",
+            "fileVersion": "1.0.4.3"
+          }
+        }
+      },
+      "StandardRepository.PostgreSQL/1.0.4.5": {
+        "dependencies": {
+          "Npgsql": "4.1.2",
+          "StandardRepository": "1.0.4.3"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/StandardRepository.PostgreSQL.dll": {
+            "assemblyVersion": "1.0.4.5",
+            "fileVersion": "1.0.4.5"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.6.0": {}
+    }
+  },
+  "libraries": {
+    "Garage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Npgsql/4.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-41Nht/GnC/cRCA/2T9vq5NAv8m24RDp3paRhJCMc8ipOURH6zDZAQFe8mcLq1hAgMkK1Wy8VoRYL/8Op+L6OCg==",
+      "path": "npgsql/4.1.2",
+      "hashPath": "npgsql.4.1.2.nupkg.sha512"
+    },
+    "StandardRepository/1.0.4.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZZR+d8Z0Q/jk+0mUwiHeGXo72t1o/B1qAK6RyFwIIB6p7Ld5BoFbTxrLVD1VE65YJDxmqNhZadkIPPA9sdwJqQ==",
+      "path": "standardrepository/1.0.4.3",
+      "hashPath": "standardrepository.1.0.4.3.nupkg.sha512"
+    },
+    "StandardRepository.PostgreSQL/1.0.4.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XjzU4XF6ctHOCp6yasPs0+Maqr7BJTqEMVWMf8617iIUhBmf25xRE3h0Rfw/+uuXWOh3idLpPv3u2dh4R1Aa3A==",
+      "path": "standardrepository.postgresql/1.0.4.5",
+      "hashPath": "standardrepository.postgresql.1.0.4.5.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HxozeSlipUK7dAroTYwIcGwKDeOVpQnJlpVaOkBz7CM4TsE5b/tKlQBZecTjh6FzcSbxndYaxxpsBMz+wMJeyw==",
+      "path": "system.runtime.compilerservices.unsafe/4.6.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+    }
+  }
+}
