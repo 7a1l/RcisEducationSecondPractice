@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <id>1</id>
+    <first_name>Дмитрий</first_name>
+    <last_name>Антипов</last_name>
+    <birthdate>1958-01-08T00:00:00+06:00</birthdate>
+  </Table1>
+  <Table1>
+    <id>2</id>
+    <first_name>Виктор</first_name>
+    <last_name>Гаан</last_name>
+    <birthdate>2000-04-05T00:00:00+07:00</birthdate>
+  </Table1>
+  <Table1>
+    <id>3</id>
+    <first_name>Даниил</first_name>
+    <last_name>Авдеев</last_name>
+    <birthdate>2001-11-28T00:00:00+06:00</birthdate>
+  </Table1>
+  <Table1>
+    <id>4</id>
+    <first_name>Денис</first_name>
+    <last_name>Иванов</last_name>
+    <birthdate>1997-12-01T00:00:00+06:00</birthdate>
+  </Table1>
+  <Table1>
+    <id>9</id>
+    <first_name>Test</first_name>
+    <last_name>Test</last_name>
+    <birthdate>2004-05-05T00:00:00+07:00</birthdate>
+  </Table1>
+  <Table1>
+    <id>10</id>
+    <first_name>qwe</first_name>
+    <last_name>asd</last_name>
+    <birthdate>2201-01-01T00:00:00+07:00</birthdate>
+  </Table1>
+  <Table1>
+    <id>12</id>
+    <first_name>Pavel</first_name>
+    <last_name>Fed</last_name>
+    <birthdate>2005-05-10T00:00:00+07:00</birthdate>
+  </Table1>
+</NewDataSet>

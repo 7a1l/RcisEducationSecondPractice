@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Aspose.Cells" Version="23.3.0" />
+      <PackageReference Include="GemBox.Document" Version="35.0.1300" />
+      <PackageReference Include="itext7" Version="7.2.5" />
+      <PackageReference Include="Npgsql" Version="8.0.0-preview.2" />
+    </ItemGroup>
+
+</Project>
