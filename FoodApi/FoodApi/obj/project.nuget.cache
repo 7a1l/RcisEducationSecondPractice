@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cyfcCOuHH2c9tMAh9csUS/0o3GyuZ9uO+mlnAu6udP82W6kpbuSELx4N1y4VAlV9wTQNdvXSN31qOHKSN8iEKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gr612_fepol\\Desktop\\prac\\FoodApi\\FoodApi\\FoodApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gr612_fepol\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
+    "C:\\Users\\gr612_fepol\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

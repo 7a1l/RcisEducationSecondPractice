@@ -1,0 +1,16 @@
+C:\Users\gr612_fepol\Desktop\prac\FoodApi\FoodApi\bin\Debug\netcoreapp3.1\FoodApi.exe
+C:\Users\gr612_fepol\Desktop\prac\FoodApi\FoodApi\bin\Debug\netcoreapp3.1\FoodApi.deps.json
+C:\Users\gr612_fepol\Desktop\prac\FoodApi\FoodApi\bin\Debug\netcoreapp3.1\FoodApi.runtimeconfig.json
+C:\Users\gr612_fepol\Desktop\prac\FoodApi\FoodApi\bin\Debug\netcoreapp3.1\FoodApi.runtimeconfig.dev.json
+C:\Users\gr612_fepol\Desktop\prac\FoodApi\FoodApi\bin\Debug\netcoreapp3.1\FoodApi.dll
+C:\Users\gr612_fepol\Desktop\prac\FoodApi\FoodApi\bin\Debug\netcoreapp3.1\FoodApi.pdb
+C:\Users\gr612_fepol\Desktop\prac\FoodApi\FoodApi\obj\Debug\netcoreapp3.1\FoodApi.csprojAssemblyReference.cache
+C:\Users\gr612_fepol\Desktop\prac\FoodApi\FoodApi\obj\Debug\netcoreapp3.1\FoodApi.AssemblyInfoInputs.cache
+C:\Users\gr612_fepol\Desktop\prac\FoodApi\FoodApi\obj\Debug\netcoreapp3.1\FoodApi.AssemblyInfo.cs
+C:\Users\gr612_fepol\Desktop\prac\FoodApi\FoodApi\obj\Debug\netcoreapp3.1\FoodApi.csproj.CoreCompileInputs.cache
+C:\Users\gr612_fepol\Desktop\prac\FoodApi\FoodApi\obj\Debug\netcoreapp3.1\FoodApi.dll
+C:\Users\gr612_fepol\Desktop\prac\FoodApi\FoodApi\obj\Debug\netcoreapp3.1\FoodApi.pdb
+C:\Users\gr612_fepol\Desktop\prac\FoodApi\FoodApi\obj\Debug\netcoreapp3.1\FoodApi.genruntimeconfig.cache
+C:\Users\gr612_fepol\Desktop\prac\FoodApi\FoodApi\bin\Debug\netcoreapp3.1\Json.Net.dll
+C:\Users\gr612_fepol\Desktop\prac\FoodApi\FoodApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\gr612_fepol\Desktop\prac\FoodApi\FoodApi\obj\Debug\netcoreapp3.1\FoodApi.csproj.CopyComplete
